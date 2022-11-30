@@ -11,7 +11,7 @@
       "id": "OccupationWar-1.16.5",
       "name": "OccupationWar (Minecraft 1.16.5)",
       "description": "OccupationWar Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/OccupationWar-Launcher/main/app/assets/images/custom/o_logo.png",
       "version": "1.0.0",
       "address": "snics.kro.kr",
       "minecraftVersion": "1.16.5",
