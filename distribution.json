@@ -2,10 +2,10 @@
   "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1033317388353011762",
-    "smallImageText": "minecraft 1.16.5",
-    "smallImageKey": "occupation_war_logo"
-  },
+    "clientId": "385581240906022916",
+    "smallImageText": "WesterosCraft",
+    "smallImageKey": "seal-circle"
+},
   "servers": [
     {
       "id": "OccupationWar-1.16.5",
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "1.16.5 OccuaptionWar",
         "largeImageText": "Occupation War (snics.kro.kr, 1.16.5)",
-        "largeImageKey": "occupation_war_logo"
+        "largeImageKey": "server-prod"
       },
       "mainServer": true,
       "autoconnect": true,
