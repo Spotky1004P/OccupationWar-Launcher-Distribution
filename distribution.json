@@ -19,6 +19,7 @@
         "largeImageText": "Occupation War",
         "largeImageKey": "occupation_war_logo"
       },
+      "newsUrl": "http://snics-client.kro.kr:8080/news.json",
       "mainServer": true,
       "autoconnect": true,
       "modules": [
